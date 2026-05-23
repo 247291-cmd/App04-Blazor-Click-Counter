@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add two-way binding on number input
+## feat: add @bind:event=oninput on manual input
 
-Commit #7
+Commit #8
