@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add one-way binding to display count
+## feat: add two-way binding on number input
 
-Commit #6
+Commit #7
