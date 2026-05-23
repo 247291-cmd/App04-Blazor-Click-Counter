@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: prevent count going below zero in Decrement
+## style: add pink gradient background
 
-Commit #10
+Commit #11
