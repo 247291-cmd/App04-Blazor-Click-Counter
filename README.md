@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add Increment and Decrement helper buttons
+## feat: prevent count going below zero in Decrement
 
-Commit #9
+Commit #10
