@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: add gradient Click Me button with shadow
+## style: add manual input group with +/- buttons
 
-Commit #13
+Commit #14
