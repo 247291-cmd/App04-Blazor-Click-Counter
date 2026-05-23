@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: improve button spacing and layout
+## chore: add gitignore
 
-Commit #24
+Commit #25
