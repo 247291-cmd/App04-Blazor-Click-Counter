@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: display count with large gradient text
+## style: add gradient Click Me button with shadow
 
-Commit #12
+Commit #13
