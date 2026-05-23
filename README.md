@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: large font size for count display
+## feat: add page title Click Counter
 
-Commit #22
+Commit #23
