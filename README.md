@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add page title Click Counter
+## style: improve button spacing and layout
 
-Commit #23
+Commit #24
