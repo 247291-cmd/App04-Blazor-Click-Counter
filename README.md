@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## chore: add gitignore
+## docs: add README for App04
 
-Commit #25
+Commit #26
