@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## refactor: clean up code block
+## fix: input type number min=0 attribute
 
-Commit #20
+Commit #21
