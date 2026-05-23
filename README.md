@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add ClickCounter page with @page / route
+## feat: add @onclick event on Click Me button
 
-Commit #2
+Commit #3
