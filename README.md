@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: add Total Clicks label
+## style: add Reset button as outline style
 
-Commit #16
+Commit #17
