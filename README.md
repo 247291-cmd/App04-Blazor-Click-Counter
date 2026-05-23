@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: add pink gradient background
+## style: display count with large gradient text
 
-Commit #11
+Commit #12
