@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: add manual input group with +/- buttons
+## style: add card with rounded corners
 
-Commit #14
+Commit #15
