@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: add card with rounded corners
+## style: add Total Clicks label
 
-Commit #15
+Commit #16
