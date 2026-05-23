@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add @onclick event on Click Me button
+## feat: implement IncrementCount method
 
-Commit #3
+Commit #4
