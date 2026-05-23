@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: add NavMenu with pink branding
+## style: add responsive col-md-5 layout
 
-Commit #18
+Commit #19
