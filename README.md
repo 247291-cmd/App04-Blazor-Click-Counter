@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: implement IncrementCount method
+## feat: implement ResetCount method
 
-Commit #4
+Commit #5
