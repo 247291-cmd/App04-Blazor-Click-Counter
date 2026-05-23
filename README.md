@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## style: add responsive col-md-5 layout
+## refactor: clean up code block
 
-Commit #19
+Commit #20
