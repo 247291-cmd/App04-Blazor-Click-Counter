@@ -5,61 +5,38 @@
 
 <div class="container py-5">
     <div class="row justify-content-center">
-        <div class="col-md-6 col-lg-5">
-
+        <div class="col-md-5 col-lg-4">
             <div class="text-center mb-4">
-                <h2 class="fw-bold text-dark">App 04 - Click Counter</h2>
-                <p class="text-muted">Event Handling + One-Way and Two-Way Binding</p>
+                <h2 class="fw-bold text-dark">Click Counter</h2>
+                <p class="text-muted">Track and adjust the click count</p>
             </div>
-
             <div class="card border-0 shadow" style="border-radius:16px;">
                 <div class="card-header py-3 px-4 text-white fw-bold" style="background:#d97706; border-radius:16px 16px 0 0;">
-                    Counter Dashboard
+                    Counter
                 </div>
                 <div class="card-body p-4 text-center">
-
-                    <div class="mb-1">
-                        <span class="badge bg-success px-3 py-2">One-Way Binding Display</span>
-                    </div>
-                    <div class="fw-bold text-dark mb-1" style="font-size:5rem; line-height:1;">
-                        @count
-                    </div>
+                    <div class="fw-bold text-dark mb-1" style="font-size:5rem; line-height:1;">@count</div>
                     <p class="text-muted mb-4">Total Clicks</p>
-
                     <div class="d-grid gap-2 mb-4">
                         <button class="btn btn-lg fw-bold text-white py-3"
                                 style="background:#d97706; border:none; border-radius:12px;"
                                 @onclick="IncrementCount">
                             Click Me! (+1)
                         </button>
-                        <button class="btn btn-outline-secondary rounded-pill" @onclick="ResetCount">
-                            Reset to Zero
-                        </button>
+                        <button class="btn btn-outline-secondary rounded-pill" @onclick="ResetCount">Reset to Zero</button>
                     </div>
-
                     <hr />
-
                     <div class="mt-3 text-start">
-                        <label class="form-label fw-semibold text-dark">
-                            Set Count Manually
-                            <span class="badge bg-primary ms-2" style="font-size:0.65rem;">Two-Way Binding</span>
-                        </label>
+                        <label class="form-label fw-semibold text-dark">Set Count Manually</label>
                         <div class="input-group">
                             <button class="btn btn-outline-secondary fw-bold" @onclick="Decrement">-</button>
-                            <input type="number"
-                                   @bind="count"
-                                   @bind:event="oninput"
-                                   class="form-control text-center fw-bold"
-                                   style="font-size:1.2rem;"
-                                   min="0" />
+                            <input type="number" @bind="count" @bind:event="oninput"
+                                   class="form-control text-center fw-bold" style="font-size:1.2rem;" min="0" />
                             <button class="btn btn-outline-secondary fw-bold" @onclick="Increment">+</button>
                         </div>
-                        <small class="text-muted">Type any number to set the count directly</small>
                     </div>
-
                 </div>
             </div>
-
         </div>
     </div>
 </div>
