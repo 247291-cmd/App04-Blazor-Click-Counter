@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## feat: implement ResetCount method
+## feat: add one-way binding to display count
 
-Commit #5
+Commit #6
