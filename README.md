@@ -1,5 +1,5 @@
 ﻿# App04-Blazor-Click-Counter
 
-## fix: input type number min=0 attribute
+## style: large font size for count display
 
-Commit #21
+Commit #22
